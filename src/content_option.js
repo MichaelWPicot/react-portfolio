@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Michael Picot",
     description: "Full-stack developer with a background in environmental engineering and project management.",
-    your_img_url: "/hero.jpg",
+    your_img_url: "https://i.imgur.com/B82zAYz.jpg",
 };
 
 const dataabout = {
