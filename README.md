@@ -4,7 +4,7 @@ My Portfolio
 
 ### [live preview](https://michaelwpicot.github.io/react-portfolio/)
 
-[![react portfoiio](https://i.imgur.com/oNPmVZy.png)]
+![react portfoiio](https://i.imgur.com/oNPmVZy.png)
 
 ### Features
 
